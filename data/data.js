@@ -2,16 +2,17 @@ const data = [
   {
     "id": 1,
     "title": "The Elder Scrolls V: Skyrim",
-    "platform": "PlayStation 5"
+    "cover": "skyrim",
+    "status": "Now Playing"
   },
   {
     "id": 2,
     "title": "Astro's Playroom",
-    "platform": "PlayStation 5"
+    "status": "Backlog"
   },
   {
     "id": 3,
     "title": "Minecraft",
-    "platform": "PC"
+    "status": "Wishlist"
   }
 ];

@@ -3,12 +3,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     data.forEach(item => {
         const listItem = document.createElement('li');
+        const itemCover = document.createElement('img');
         const itemTitle = document.createElement('h3');
+        const itemStatus = document.createElement('p');
+
+        itemCover.classList.add('cover');
+        itemCover.src = "./images/covers/" + item.cover + ".jpg";
+        itemCover.alt = item.title + " cover";
+
         itemTitle.textContent = item.title;
-        const itemPlatform = document.createElement('p');
-        itemPlatform.textContent = item.platform;
+        itemStatus.textContent = item.status;
+
+        listItem.appendChild(itemCover);
         listItem.appendChild(itemTitle);
-        listItem.appendChild(itemPlatform);
+        listItem.appendChild(itemStatus);
         itemList.appendChild(listItem);
     });
 });
