@@ -1,0 +1,18 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.div-space {
+    height: 20px;
+}
+
+.profile {
+    max-width: 150px;
+    border-radius: 150px;
+}
+
+h3 {
+    color: rgb(148, 148, 148);
+    margin-top: -10px;
+}
