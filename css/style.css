@@ -1,6 +1,5 @@
 body {
     font-family: 'Trebuchet MS', sans-serif;
-    text-align: center;
 }
 
 .div-space {
@@ -25,14 +24,17 @@ h2 {
     border-radius: 5px;
 }
 
+.display-case {
+    max-width: 800px;
+    margin-left: -32px;
+}
+
 li {
     list-style: none;
-    border: 1px solid rgb(193, 193, 193);
     border-radius: 15px;
     align-content: center;
-    max-width: 400px;
-    padding: 5px;
+    padding-left: 0px;
     margin: 15px;
     display: inline-block;
-    width: 150px;
+    width: 135px;
 }

@@ -3,16 +3,42 @@ const data = [
     "id": 1,
     "title": "The Elder Scrolls V: Skyrim",
     "cover": "skyrim",
-    "status": "Now Playing"
+    "status": "Now Playing 🎮"
   },
   {
     "id": 2,
-    "title": "Astro's Playroom",
-    "status": "Backlog"
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "Now Playing 🎮"
   },
   {
     "id": 3,
-    "title": "Minecraft",
-    "status": "Wishlist"
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "Beat ✅"
+  },
+    {
+    "id": 4,
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "100% 🏆"
+  },
+  {
+    "id": 5,
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "Beat ✅"
+  },
+    {
+    "id": 6,
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "Beat ✅"
+  },
+    {
+    "id": 7,
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover": "skyrim",
+    "status": "Beat ✅"
   }
 ];
