@@ -12,7 +12,18 @@ body {
     border-radius: 150px;
 }
 
-h3 {
+h2 {
     color: rgb(148, 148, 148);
     margin-top: -10px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+li {
+    list-style: none;
+    border: 1px solid black;
+    align-content: center;
+    max-width: 400px;
+    padding: 5px;
+    margin-bottom: 20px;
 }
