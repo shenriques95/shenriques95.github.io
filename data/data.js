@@ -7,38 +7,14 @@ const data = [
   },
   {
     "id": 2,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "Now Playing 🎮"
+    "title": "Astro's Playroom",
+    "cover": "astro-playroom",
+    "status": "Backlog 🗃️"
   },
   {
     "id": 3,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "Beat ✅"
-  },
-    {
-    "id": 4,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "100% 🏆"
-  },
-  {
-    "id": 5,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "Beat ✅"
-  },
-    {
-    "id": 6,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "Beat ✅"
-  },
-    {
-    "id": 7,
-    "title": "The Elder Scrolls V: Skyrim",
-    "cover": "skyrim",
-    "status": "Beat ✅"
+    "title": "Grand Theft Auto VI",
+    "cover": "gta-6",
+    "status": "Wishlist 🎁"
   }
 ];
